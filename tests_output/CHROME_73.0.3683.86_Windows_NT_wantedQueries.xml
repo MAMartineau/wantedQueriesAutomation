@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuites errors="1"
+<testsuites errors="0"
             failures="0"
             tests="2">
 
   <testsuite name="wantedQueries"
-    errors="1" failures="0" hostname="" id="" package="wantedQueries" skipped="0"
-    tests="2" time="0.8460" timestamp="">
+    errors="0" failures="0" hostname="" id="" package="wantedQueries" skipped="0"
+    tests="2" time="2.101" timestamp="">
   
-    <testcase name="Web App can be reached and is available" classname="wantedQueries" time="0.7790" assertions="2">
+    <testcase name="Web App can be reached and is available" classname="wantedQueries" time="0.7500" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="Open menu and navigate" classname="wantedQueries" time="0.06700" assertions="1">
+    <testcase name="Open menu and navigate" classname="wantedQueries" time="1.351" assertions="1">
 
     
     </testcase>
